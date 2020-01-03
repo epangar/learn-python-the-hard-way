@@ -20,3 +20,4 @@ You live in %r. Not sure where that is.
 And you have a %r computer. Nice.
 """ % (likes, lives, computer)
 
+#$ python ex15.py user-name
