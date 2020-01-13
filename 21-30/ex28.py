@@ -1,9 +1,9 @@
 print " 1: %r" % (True and True)  #True, because both are True
 print " 2: %r" % (False and True) #False, because not all of them are True
 print " 3: %r" % (1 == 1 and 2 == 1) #False, because not all of them are True
-print " 4: %r" % ("test" == "test") #True, beacuse both are True
+print " 4: %r" % ("test" == "test") #True, because both are True
 print " 5: %r" % (1 == 1 or 2 != 1) #True, because at least one is True
-print " 6: %r" % (True and 1 == 1) #True, beacuse both are True
+print " 6: %r" % (True and 1 == 1) #True, because both are True
 print " 7: %r" % (False and 0 != 0) #False, because not all of them are True
 print " 8: %r" % (True or 1 == 1) #True, because at least one is True
 print " 9: %r" % ("test" == "testing") #False
